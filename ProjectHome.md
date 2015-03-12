@@ -1,0 +1,1 @@
+This project aims to hold exemplary examples of how various computing tasks should be best achieved, given the current state of things.
